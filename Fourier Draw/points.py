@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-""" 
-Created on Wed Apr  3 09:39:48 2019
-
-@author: c62wt96
-"""
 import numpy as np
 import pickle
 import pyglet
