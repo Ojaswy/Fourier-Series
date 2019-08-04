@@ -30,7 +30,7 @@ class Main(pyglet.window.Window):
 
 
  
-if __name__ == '__main__':
+if __name__ == '__main__': 
     window = Main()
     pyglet.clock.schedule_interval(window.update, 1/60)
 
