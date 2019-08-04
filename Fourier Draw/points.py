@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import numpy as np
 import pickle
-import pyglet
+import pyglet 
 from pyglet.window import mouse
 
 
