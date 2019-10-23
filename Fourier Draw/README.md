@@ -9,3 +9,4 @@ The circle characteristics are calculated by using Fourier transforms.
 It currently works, but is still very much a work in progress. 
  
     
+  
