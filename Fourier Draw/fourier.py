@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
  
 import numpy as np 
-import pyglet
+import pyglet 
 from points import x_points, y_points
  
      
