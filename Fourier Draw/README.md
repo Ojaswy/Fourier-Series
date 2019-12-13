@@ -6,7 +6,7 @@ The fourier.py file recreates this drawing using circles of different sizes that
 
 The circle characteristics are calculated by using Fourier transforms.
 
-It currently works, but is still very much a work in progress. 
+It currently works, but is still very much a work in progress.  
  
     
   
