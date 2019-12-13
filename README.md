@@ -1,5 +1,5 @@
 ## Fourier-Series
-Exploring the power of Fourier Series. 
+Exploring the power of Fourier Series. m 
   
  
  
