@@ -1,5 +1,7 @@
-## Fourier-Series
-Exploring the power of Fourier Series. m 
+## ```Fourier-Series```
+
+
+Exploring the power of Fourier Series. 
   
  
  
