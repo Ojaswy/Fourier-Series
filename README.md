@@ -4,5 +4,5 @@
 Exploring the power of Fourier Series. 
   
  
- 
+  
  
