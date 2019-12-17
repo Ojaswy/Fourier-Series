@@ -11,7 +11,7 @@ class Main(pyglet.window.Window):
     def __init__ (self):
         super().__init__(640, 480)
         self.x_points = []
-        self.y_points = []
+        self.y_points = [] 
         self.batch = pyglet.graphics.Batch()
 
     def on_mouse_drag(self, x, y, dx, dy, buttons, modifiers):
