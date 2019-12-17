@@ -3,7 +3,7 @@ import pyglet
 from points import x_points, y_points
  
      
-
+ 
 def circle_points(center, radius, resolution = 36):
 
     angle_inc = 2 * np.pi / resolution
