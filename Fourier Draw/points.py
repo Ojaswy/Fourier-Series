@@ -8,7 +8,7 @@ from pyglet.window import mouse
 
  
 class Main(pyglet.window.Window): 
-    def __init__ (self):
+    def __init__ (self): 
         super().__init__(640, 480)
         self.x_points = []
         self.y_points = [] 
