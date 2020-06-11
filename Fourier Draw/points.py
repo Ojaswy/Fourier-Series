@@ -4,9 +4,6 @@ import pickle
 import pyglet 
 from pyglet.window import mouse
 
-
-
- 
 class Main(pyglet.window.Window): 
     def __init__ (self): 
         super().__init__(640, 480)
