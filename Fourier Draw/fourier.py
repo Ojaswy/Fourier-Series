@@ -2,7 +2,7 @@ import numpy as np
 import pyglet 
 from points import x_points, y_points
   
-     
+      
   
 def circle_points(center, radius, resolution = 36):
 
